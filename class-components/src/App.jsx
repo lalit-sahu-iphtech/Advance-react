@@ -1,6 +1,8 @@
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import Counter from "./components/Counter";
+
 
 import StudentCard from "./components/StudentCard";
 import EmployeeCard from "./components/EmployeeCard";
@@ -40,6 +42,8 @@ price="50000"
 
 <hr/>
 <Footer/>
+
+<Counter/>
 
 
 </>
